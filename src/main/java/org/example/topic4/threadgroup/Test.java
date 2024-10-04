@@ -1,4 +1,4 @@
-package org.example.lec4.threadgroup;
+package org.example.topic4.threadgroup;
 
 public class Test extends Thread{
 

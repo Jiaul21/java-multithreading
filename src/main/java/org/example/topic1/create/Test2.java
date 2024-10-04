@@ -1,4 +1,4 @@
-package org.example.lec1.create;
+package org.example.topic1.create;
 
 public class Test2 implements Runnable{
     @Override

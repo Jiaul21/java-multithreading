@@ -1,4 +1,4 @@
-package org.example.lec2.methods;
+package org.example.topic2.methods;
 
 public class Test2 extends Thread{
     @Override

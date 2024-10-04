@@ -1,4 +1,4 @@
-package org.example.lec3.lifecycle;
+package org.example.topic3.lifecycle;
 
 public class Test extends Thread{
     Test(String name){super(name);}

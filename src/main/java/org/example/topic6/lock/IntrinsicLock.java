@@ -1,4 +1,4 @@
-package org.example.lec6.lock;
+package org.example.topic6.lock;
 
 public class IntrinsicLock {
 

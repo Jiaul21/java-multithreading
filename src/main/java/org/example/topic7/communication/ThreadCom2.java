@@ -1,4 +1,4 @@
-package org.example.lec7.communication;
+package org.example.topic7.communication;
 
 
 import java.util.concurrent.locks.Condition;

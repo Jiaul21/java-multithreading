@@ -1,4 +1,4 @@
-package org.example.lec5.synchronize;
+package org.example.topic5.synchronize;
 
 public class Test extends Thread{
     public Count count;
